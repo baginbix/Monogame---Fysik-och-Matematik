@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Physics and math", "Physics and math\Physics and math.csproj", "{92FF49D4-59D5-45B2-B75B-F2045419A445}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92FF49D4-59D5-45B2-B75B-F2045419A445}.Debug|x86.ActiveCfg = Debug|x86
+		{92FF49D4-59D5-45B2-B75B-F2045419A445}.Debug|x86.Build.0 = Debug|x86
+		{92FF49D4-59D5-45B2-B75B-F2045419A445}.Release|x86.ActiveCfg = Release|x86
+		{92FF49D4-59D5-45B2-B75B-F2045419A445}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F5ACC94-B07F-40A9-A3D3-D00115C0BC10}
+	EndGlobalSection
+EndGlobal
